@@ -2,7 +2,7 @@
 
 ## Crear un entorno virtual
 
-A continuación se muestra captura de la creación del entorno virtual utilizando el coman ``python3 -m venv en``
+A continuación se muestra captura de la creación del entorno virtual utilizando el comando ``python3 -m venv en``
 
 ![create-env](https://user-images.githubusercontent.com/27878299/153810126-39c9cf51-db78-447f-bd47-0985b73bd83e.png)
 
